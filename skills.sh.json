@@ -1,0 +1,21 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Start here",
+      "description": "The finish gate for anything an agent ships — prose, UI, code and docs — with the six-question check that has to pass before anyone says 'done'.",
+      "skills": [
+        "anti-slop"
+      ]
+    },
+    {
+      "title": "Prose",
+      "description": "Long-form and line-level de-slopping: genre recipes and model passages for books, and the catalogue of AI writing patterns with rewrites.",
+      "skills": [
+        "anti-prose-slop",
+        "humanizer"
+      ]
+    }
+  ]
+}
