@@ -1,0 +1,15 @@
+# Notices and attribution
+
+## anti-slop, anti-prose-slop
+Copyright (c) 2026 Dionis S. Licensed MIT (see LICENSE).
+
+## humanizer — skills/humanizer/
+Copyright (c) Siqi Chen (@blader) — https://github.com/blader/humanizer
+Licensed MIT. Kept as its own folder with its own LICENSE file; the author frontmatter is
+preserved. Ported for agent use by Hermes Agent.
+
+## anti-ui-slop — referenced, not included
+By UIZZE (business@uizze.com), Apache-2.0, itself derived in part from Paul Bakaus's
+"impeccable" (Apache-2.0) and ehmo's platform-design-skills. It is linked from this repo's
+documentation but deliberately not redistributed here, so its LICENSE, NOTICE and
+MODIFICATIONS stay with it.
